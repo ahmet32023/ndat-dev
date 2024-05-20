@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,91): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,62): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,39): warning C4244: 'argument': conversion from 'const _Ty2' to 'GLfloat', possible loss of data
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,39): warning C4244:         with
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,39): warning C4244:         [
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,39): warning C4244:             _Ty2=int
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,39): warning C4244:         ]
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,24): warning C4244: 'argument': conversion from 'const _Ty1' to 'GLfloat', possible loss of data
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,24): warning C4244:         with
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,24): warning C4244:         [
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,24): warning C4244:             _Ty1=int
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(97,24): warning C4244:         ]
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(103,49): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(103,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(103,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\Project5\main.cpp(103,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Project5.vcxproj -> C:\Users\Hp\OneDrive\Masaüstü\NDAT_ödev\x64\Debug\Project5.exe

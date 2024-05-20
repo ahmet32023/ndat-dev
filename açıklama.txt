@@ -1,0 +1,9 @@
+Ödevi Hazırlayanlar:
+Fatih ÜNAL NO:200401011
+Ahmet SARI NO:210401033
+Öykü KURTGÖZ NO:210401131
+Buse Nur YILMAZ NO:210401101
+
+AÇIKLAMA:Hocam biz beraber bir yılan oyunu yaptık ama onu 3d ye çeviremedik. O yüzden daha basit bir 3d küp sekli yaptık
+ "w","a","s","d" tuşlarına basıldığında küpün kenarları 3d şekilde ortaya çıkıyor. Yılan oyunu daha fazla zamanımızı
+almıştı o yüzden diğer projeyi bu şekilde yaptık. ikisi ayrı projeler 
